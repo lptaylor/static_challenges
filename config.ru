@@ -1,3 +1,3 @@
-require './app/controllers/5280'
+require './app/controllers/static_5280'
 
-run Site5280
+run Static5280
