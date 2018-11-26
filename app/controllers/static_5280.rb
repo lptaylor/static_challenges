@@ -17,6 +17,10 @@ class Static5280
     render_view('index.html')
   end
 
+  def self.error
+    render_view('error.html', '404')
+  end
+
   def self.css
     render_static('main.css')
   end

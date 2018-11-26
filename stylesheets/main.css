@@ -1,0 +1,62 @@
+header {
+  background: #8B0000;
+  color: white;
+  height: 35px;
+  padding: 20 30px;
+}
+
+header h1 {
+  float: left;
+  font-size: 30px;
+  font-weight: bold;
+
+}
+
+header nav {
+  float: right;
+  text-decoration: underline;
+}
+
+h2 {
+  background: #36454F;
+  color: white;
+  height: 20px;
+  padding: 20 30px;
+}
+
+h2 nav{
+  float: right;
+  text-decoration: underline;
+}
+
+h2 li{
+  display: inline;
+  padding: 10px;
+}
+
+h3 {
+  padding: 20px;
+  font-weight: bold;
+}
+
+h3 nav{
+  float: right;
+}
+
+h4 {
+  padding-left: 30px;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+h5 {
+  padding: 20 30px;
+}
+
+footer {
+  font-size: 10px;
+  padding: 20 20px;
+  background: #36454F;
+  color: white;
+  height: 20px;
+}
